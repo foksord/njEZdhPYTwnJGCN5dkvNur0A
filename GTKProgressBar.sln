@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTKProgressBar", "GTKProgressBar\GTKProgressBar.csproj", "{8D7A2209-1482-4C4D-AFA3-BC94F41DC350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7A2209-1482-4C4D-AFA3-BC94F41DC350}.Debug|x86.ActiveCfg = Debug|x86
+		{8D7A2209-1482-4C4D-AFA3-BC94F41DC350}.Debug|x86.Build.0 = Debug|x86
+		{8D7A2209-1482-4C4D-AFA3-BC94F41DC350}.Release|x86.ActiveCfg = Release|x86
+		{8D7A2209-1482-4C4D-AFA3-BC94F41DC350}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
